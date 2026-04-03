@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "流星のスコール",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-04-03T05:51:13.004091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流星のスコール",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/01_流星のスコール_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流星のスコール",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_流星のスコール_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "流星のスコール",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/localdb_01_流星のスコール_UNISON_SQUARE_GARDEN.lrc",
+      "repo_name": "LlYwKcKNPhs"
+    }
+  ]
+}
